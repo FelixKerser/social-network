@@ -1,0 +1,24 @@
+.item{
+    color:black;
+}
+
+.post__wrapper{
+  display:flex;
+  padding-bottom:25px;
+  padding-left:15px;
+  align-items: center;
+}
+
+.post__wrapper:first-child{
+  padding-top:25px;
+}
+
+.post__wrapper:last-child{
+  padding-bottom:0;
+}
+
+.post__wrapper img{
+  width:50px;
+  border-radius: 25px;
+  margin-right:10px;
+}

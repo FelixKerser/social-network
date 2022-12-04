@@ -1,0 +1,11 @@
+.content__banner{
+    max-width:100%;
+  }
+  
+.avatar__img{
+  max-width:150px;
+}
+
+.user__info{
+  display:flex;
+}
